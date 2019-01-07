@@ -1,0 +1,10 @@
+Java
+Maven
+Oracle Database Developer
+Tomcat 7
+SOAP UI
+Notepad++
+Eclipse
+Win Merge 2.14.0
+IReport Designer
+Firefox
