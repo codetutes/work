@@ -34,3 +34,5 @@ http://www.springboottutorial.com/spring-boot-projects-with-code-examples
 
 http://www.springboottutorial.com/spring-boot-rest-api-projects-with-code-examples
 ***********************************************************************
+
+https://github.com/journaldev/journaldev/tree/master/Spring
