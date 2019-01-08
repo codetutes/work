@@ -31,4 +31,6 @@ https://www.baeldung.com/global-error-handler-in-a-spring-rest-api
 
 ********************************************************************
 http://www.springboottutorial.com/spring-boot-projects-with-code-examples
+
+http://www.springboottutorial.com/spring-boot-rest-api-projects-with-code-examples
 ***********************************************************************
