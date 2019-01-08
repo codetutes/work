@@ -38,3 +38,5 @@ http://www.springboottutorial.com/spring-boot-rest-api-projects-with-code-exampl
 https://github.com/journaldev/journaldev/tree/master/Spring
 
 https://github.com/journaldev/journaldev/tree/master/Spring/Spring-Boot-RestController
+
+https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf
