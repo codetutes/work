@@ -29,3 +29,6 @@ https://github.com/eugenp/tutorials/tree/master/spring-rest-angular
 
 https://www.baeldung.com/global-error-handler-in-a-spring-rest-api
 
+********************************************************************
+http://www.springboottutorial.com/spring-boot-projects-with-code-examples
+***********************************************************************
