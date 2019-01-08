@@ -40,3 +40,5 @@ https://github.com/journaldev/journaldev/tree/master/Spring
 https://github.com/journaldev/journaldev/tree/master/Spring/Spring-Boot-RestController
 
 https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-Study-Guide.pdf
+
+https://academy.pivotal.io/confirm-course?courseid=EDU-1120-APP
