@@ -44,3 +44,15 @@ https://d1fto35gcfffzn.cloudfront.net/academy/Spring-Professional-Certification-
 https://academy.pivotal.io/confirm-course?courseid=EDU-1120-APP
 
 https://github.com/eugenp/tutorials
+
+https://github.com/in28minutes/SpringBootWebApplicationStepByStep
+
+https://dzone.com/articles/creating-a-web-application-with-spring-boot
+
+https://www.concretepage.com/spring-boot/spring-boot-rest-example#Example
+
+https://www.callicoder.com/hibernate-spring-boot-jpa-many-to-many-mapping-example/
+
+https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
+
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial/tree/master/src/main/java/com/example/easynotes/controller
