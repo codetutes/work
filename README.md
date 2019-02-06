@@ -56,3 +56,19 @@ https://www.callicoder.com/hibernate-spring-boot-jpa-many-to-many-mapping-exampl
 https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
 
 https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial/tree/master/src/main/java/com/example/easynotes/controller
+
+*************************Spring Boot Examples**********************************************
+
+https://github.com/spring-projects/spring-boot/tree/v2.1.2.RELEASE/spring-boot-samples
+
+***********************************************************************
+
+https://o7planning.org/en/10601/spring-mvc-form-handling-and-hibernate-tutorial
+
+http://websystique.com/springmvc/spring-mvc-4-restful-web-services-crud-example-resttemplate/
+
+http://www.techferry.com/articles/RESTful-web-services-JAX-RS-annotations.html
+
+https://dzone.com/articles/an-introduction-to-jax-rs-annotations-part-1
+
+https://readlearncode.com/java-ee/what-are-the-jax-rs-annotations-get-post-path-applicationpath/
